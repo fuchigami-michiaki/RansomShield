@@ -121,6 +121,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fuchigami_michiaki)
 
+📝 **[Read the development story on Qiita](https://qiita.com/fuchigami-michiaki/items/f0f054830067ecde6037)**
+
 📝 **[開発ストーリーを Qiita で読む](https://qiita.com/fuchigami-michiaki/items/f0f054830067ecde6037)**
 
 ---
@@ -223,5 +225,7 @@ Every line of code is open. There is nothing to hide. If this tool can protect e
 If this tool helped you, consider supporting continued development.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fuchigami_michiaki)
+
+📝 **[Read the development story on Qiita](https://qiita.com/fuchigami-michiaki/items/f0f054830067ecde6037)**
 
 📝 **[Read the development story on Qiita](https://qiita.com/fuchigami-michiaki/items/f0f054830067ecde6037)**
